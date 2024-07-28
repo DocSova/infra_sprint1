@@ -1,5 +1,5 @@
- IP: 130.193.55.143
- name_taski: https://drsova.zapto.org/
- name_kittygram: https://drsovakitty.zapto.org/
- login: drsova
- password: 123
+ IP: 130.193.55.143;
+ name_taski: https://drsova.zapto.org/;
+ name_kittygram: https://drsovakitty.zapto.org/;
+ login: drsova;
+ password: 123;
